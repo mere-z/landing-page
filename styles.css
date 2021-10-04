@@ -13,7 +13,7 @@ body {
 .pageTop {
     padding-left: 200px;
     padding-right: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 140px;
 
 }
 .logo {
@@ -55,7 +55,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding-right: 40px;
-    gap: 40px;
+    gap: 30px;
 }
 
 .mainText {
@@ -154,6 +154,7 @@ body {
 .footer {
     padding: 25px;
     text-align: center;
+    color: white;
 }
 
 .bluebox {
@@ -161,10 +162,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px;
+    padding: 50px;
     padding-right: 100px;
     padding-left: 100px;
-    border-radius: 12px;
+    border-radius: 8px;
 }
 
 .bold {
