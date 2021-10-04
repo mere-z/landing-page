@@ -55,7 +55,6 @@ body {
     flex-direction: column;
     flex: 1;
     padding-right: 40px;
-    gap: 15px;
 }
 
 .mainText {
