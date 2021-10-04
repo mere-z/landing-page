@@ -1,0 +1,1 @@
+This is an attempt to replicate a provided website design using HTML and css.
