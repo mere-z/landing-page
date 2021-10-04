@@ -44,7 +44,7 @@ body {
 
 .links {
     display: flex;
-    gap: 15px;
+    gap: 20px;
     align-items: center;
 }
 
@@ -129,3 +129,67 @@ body {
     flex: auto;
 }
 
+.q {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.quote {
+    padding: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.qAuthor {
+    text-align: end;
+    font-weight: 800;
+    color: black;
+    font-size: 16px;
+}
+
+
+
+.footer {
+    padding: 25px;
+    text-align: center;
+}
+
+.bluebox {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+    border-radius: 12px;
+}
+
+.bold {
+    font-weight: bold;
+    color:#F9FAF8;
+}
+
+.norm {
+    color:#F9FAF8;
+    font-weight:500;
+}
+.signUp {
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.bluebox button {
+    background-color: #3882F8;
+    color: #F9FAF8;
+    border: 1px solid #F9FAF8;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 13px;
+    width: 100px;
+    height: 30px;
+}
