@@ -1,0 +1,6 @@
+What kind of website? .......we can probably just do a kinda boring
+placeholder website identical (as much as possible) to the given design.
+
+I have no surging ideas eager to be put onto page atm.
+
+Head empty. Flexbox ready? hopefully. 
