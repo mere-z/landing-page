@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
 .pageTop, .footer {
     background-color: #1F2937;
 }
@@ -69,6 +73,7 @@
     max-width: 135px;
     flex: 0;
     padding: 7px;
+    padding-top: 8px;
     border: none;
     border-radius: 6px;
     font-weight: bold;
@@ -79,7 +84,6 @@
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
-    align-self: center;
 }
 
 
