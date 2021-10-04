@@ -121,7 +121,7 @@ body {
 }
 
 .roundBox {
-    border: 2px solid #3882F6;
+    border: 3px solid #3882F6;
     height: 150px;
     width: 150px;
     border-radius: 12px;
@@ -187,7 +187,7 @@ body {
 .bluebox button {
     background-color: #3882F8;
     color: #F9FAF8;
-    border: 1px solid #F9FAF8;
+    border: 2px solid #F9FAF8;
     border-radius: 6px;
     font-weight: bold;
     font-size: 13px;
