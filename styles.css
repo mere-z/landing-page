@@ -86,7 +86,6 @@ body {
     color: #E5E7EB;
 }
 
-
 .imgPlaceholder {
     flex: 1;
     background-color: grey;
@@ -96,3 +95,37 @@ body {
     align-items: center;
     font-size: 18px
 }
+
+.imgInfo {
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 60px;
+}
+.imgs {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 150px;
+}
+
+.imgHeader {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    padding: 20px;
+}
+
+.roundBox {
+    border: 2px solid #3882F6;
+    height: 150px;
+    width: 150px;
+    border-radius: 12px;
+    flex: auto;
+}
+
