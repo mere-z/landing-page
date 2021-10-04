@@ -55,7 +55,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding-right: 40px;
-    gap: 25px;
+    gap: 15px;
 }
 
 .mainText {
@@ -121,7 +121,7 @@ body {
 }
 
 .roundBox {
-    border: 3px solid #3882F6;
+    border: 5px solid #3882F6;
     height: 150px;
     width: 150px;
     border-radius: 12px;
