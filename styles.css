@@ -10,10 +10,6 @@ body {
     background-color: white;
 }
 
-.quote {
-    background-color: #E5E7EB;
-}
-
 .pageTop {
     padding-left: 200px;
     padding-right: 200px;
@@ -49,8 +45,9 @@ body {
 }
 
 .intro {
-    margin-top: 100px;
+    margin-top: 80px;
     display: flex;
+
 }
 
 .left {
@@ -58,6 +55,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding-right: 40px;
+    gap: 20px;
 }
 
 .mainText {
@@ -133,11 +131,12 @@ body {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
-    text-align: center;
+    text-align: left;
     margin-bottom: 10px;
 }
 
 .quote {
+    background-color: #E5E7EB;
     padding: 50px;
     padding-left: 300px;
     padding-right: 300px;
