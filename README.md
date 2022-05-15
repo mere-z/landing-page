@@ -1,4 +1,4 @@
-This is an attempt to replicate a provided website design using HTML and css.
+This is an attempt to replicate a provided website design (as a part of The Odin Project) using HTML and css.
 
 https://mere-z.github.io/landing-page/ 
 
